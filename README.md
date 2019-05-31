@@ -4,4 +4,4 @@
 
 A repository for my deep computer vision projects.
 
-## Cell Nuclei Detection and Segmentation
+#### Cell Nuclei Detection and Segmentation

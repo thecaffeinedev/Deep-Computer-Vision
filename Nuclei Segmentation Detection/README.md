@@ -6,7 +6,7 @@ The code for Mask R-CNN model is adapted from [MatterPort implementation.](https
 
 ***Dataset*** : [Kaggle 2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) 
 
-***[Colab Notebook](https://colab.research.google.com/drive/1rrH_ExLT5DbFC5CIneNN5k0ivECDKn34)
+***[Link to my Colab Notebook](https://colab.research.google.com/drive/1rrH_ExLT5DbFC5CIneNN5k0ivECDKn34)***
 
 ## Overview
 

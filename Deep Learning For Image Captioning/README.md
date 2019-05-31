@@ -1,6 +1,8 @@
 # Deep Learning For Image captioning
 Deep CNN-LSTM for Generating Image Descriptions 
 
+Build a model to generate captions from images. When given an image, the model is able to describe in English what is in the image. In order to achieve this, our model is comprised of an encoder which is a CNN and a decoder which is an RNN. The CNN encoder is given images for a classification task and its output is fed into the RNN decoder which outputs English sentences.
+
 **Key words**: Image captioning, image description generator, explain image, merge model, deep learning, long-short term memory, recurrent neural network, convolutional neural network, word by word, word embeding, bleu score.
 
 #### Abstract

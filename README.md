@@ -20,7 +20,17 @@ Goal of this project was to create an algorithm to automate nucleus detection fr
 
 Train a decent model >85% accuracy for top-1 for the test set, using a ResNet50 or smaller network with a reasonable set of augmentations.
 
-#### 3. Deep Learning For Image captioning
+#### 3. One Shot Learning
+
+* [Project Directory](https://github.com/TheCaffeineDev/Deep-Computer-Vision/tree/master/One%20Shot%20Learning)
+
+* [Omniglot](https://github.com/brendenlake/omniglot) the “transpose” of MNIST, with 1623 character classes, each with 20 examples. 
+
+* Use background set of 30 alphabets for training and evaluate on set of 20 alphabets. 
+***[Google Colab Notebook](
+https://colab.research.google.com/drive/1tgJnxdefACoq7-XYU5IUBO9aBSKgs1ua)***
+
+#### 4. Deep Learning For Image captioning
 
 * [Project Directory](https://github.com/TheCaffeineDev/Deep-Computer-Vision/tree/master/Deep%20Learning%20For%20Image%20Captioning)
 
